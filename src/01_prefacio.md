@@ -1,0 +1,9 @@
+# Prefacio
+
+Primero entré en la programación como pasatiempo. Visual Basic 6 para Dummies me enseñó lo básico, y seguí leyendo libros para aprender más. Pero el tema de los algoritmos era impenetrable para mí. Recuerdo saborear la tabla de contenidos de mi primer libro de algoritmos, pensando que ¡finalmente voy a entender estos temas! Pero era material denso, y me rendí después de unas semanas. No fue hasta que tuve mi primer buen profesor de algoritmos, cuando me di cuenta de lo simples y elegantes que eran estas ideas.
+
+Hace unos años, escribí mi primera publicación ilustrada en el blog. Soy un aprendiz visual, y me gustó mucho el estilo ilustrado. Desde entonces, he escrito algunas publicaciones ilustradas sobre programación funcional, Git, aprendizaje automático y concurrencia. Por cierto, yo era un escritor mediocre cuando empecé. Explicar conceptos técnicos es difícil. Se necesita tiempo para dar buenos ejemplos, y se necesita tiempo para explicar un concepto difícil.
+
+Así que es más fácil pasar por alto las cosas duras. Pensé que estaba haciendo un buen trabajo, hasta que después de que uno de mis posts se hizo popular, un compañero de trabajo se acercó a mí y me dijo: "He leído tu post y todavía no lo entiendo".
+
+En algún momento de escribir estas publicaciones en el blog, Manning se acercó a mí y me preguntó si quería escribir un libro ilustrado. Bueno, resulta que los editores de Manning saben mucho sobre explicar conceptos técnicos, y me enseñaron cómo enseñar. Escribí este libro para arrancar una picazón particular: quería escribir un libro que explicara bien temas técnicos difíciles, y quería un libro de algoritmos fácil de leer. Mi escritura ha recorrido un largo camino desde esa primera publicación en el blog, y espero que encuentren este libro una lectura fácil e informativa.
