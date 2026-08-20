@@ -19,7 +19,7 @@ En cada caso, describiré el algoritmo y les daré un ejemplo. Luego hablaré so
 
 ## Lo que aprenderás sobre el rendimiento
 
-La buena noticia es que una implementación de todos los algoritmos en este libro está probablemente disponible en tu idioma favorito, así que no tienes que escribir cada algoritmo tú mismo! Pero esas implementaciones son inútiles si no se entienden los compromisos. En este libro, aprenderá a comparar las compensaciones entre diferentes algoritmos: ¿Debería utilizar la clasificación de fusión o la clasificación rápida? ¿Deberías usar una matriz o una lista? Sólo usar una estructura de datos diferente puede hacer una gran diferencia.
+La buena noticia es que una implementación de todos los algoritmos en este libro está probablemente disponible en tu idioma favorito, así que no tienes que escribir cada algoritmo tú mismo! Pero esas implementaciones son inútiles si no se entiendes las ventajas y desventajas. En este libro, aprenderá a comparar las compensaciones entre diferentes algoritmos: ¿Debería utilizar la clasificación de fusión o la clasificación rápida? ¿Deberías usar una matriz o una lista? Sólo usar una estructura de datos diferente puede hacer una gran diferencia.
 
 ## Lo que aprenderás sobre la resolución de problemas
 
