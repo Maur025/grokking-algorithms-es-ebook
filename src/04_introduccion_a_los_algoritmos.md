@@ -19,7 +19,7 @@ En cada caso, describiré el algoritmo y les daré un ejemplo. Luego hablaré so
 
 ## Lo que aprenderás sobre el rendimiento
 
-La buena noticia es que una implementación de todos los algoritmos en este libro está probablemente disponible en tu idioma favorito, así que no tienes que escribir cada algoritmo tú mismo! Pero esas implementaciones son inútiles si no se entiendes las ventajas y desventajas. En este libro, aprenderá a comparar las compensaciones entre diferentes algoritmos: ¿Debería utilizar la clasificación de fusión o la clasificación rápida? ¿Deberías usar una matriz o una lista? Sólo usar una estructura de datos diferente puede hacer una gran diferencia.
+La buena noticia es que una implementación de todos los algoritmos en este libro está probablemente disponible en tu idioma favorito, así que no tienes que escribir cada algoritmo tú mismo! Pero esas implementaciones son inútiles si no entiendes las ventajas y desventajas. En este libro, aprenderá a comparar las ventajas y desventajas entre diferentes algoritmos: ¿Debería utilizar la clasificación de fusión o la clasificación rápida? ¿Deberías usar una matriz o una lista? Sólo usar una estructura de datos diferente puede hacer una gran diferencia.
 
 ## Lo que aprenderás sobre la resolución de problemas
 
@@ -27,7 +27,7 @@ Aprenderá técnicas para resolver problemas que podrían haber estado fuera de 
 
 - Si te gusta hacer videojuegos, puedes escribir un sistema de IA que sigue al usuario usando algoritmos de grafo.
 - Aprenderá a hacer un sistema de recomendaciones utilizando los vecinos más cercanos.
-- ¡Algunos problemas no se resuelven a tiempo! La parte de este libro que habla sobre los problemas NP-completo muestra cómo identificar esos problemas y llegar a un algoritmo que le da una respuesta aproximada.
+- ¡Algunos problemas no se resuelven a tiempo! La parte de este libro que habla sobre los problemas NP-complete muestra cómo identificar esos problemas y llegar a un algoritmo que le da una respuesta aproximada.
 
 En términos más generales, al final de este libro conocerás algunos de los algoritmos más ampliamente aplicables. Luego puedes usar tu nuevo conocimiento para aprender sobre algoritmos más específicos para IA, bases de datos, etc. O puede enfrentarse a desafíos más grandes en el trabajo.
 
